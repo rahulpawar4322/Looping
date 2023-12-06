@@ -9,7 +9,7 @@ public class forLoop {
 			System.out.println(i);
 		}
 		
-		System.out.println("Hello i am master");
+		System.out.println("Hello i am master chanhges");
 
 	}
 
